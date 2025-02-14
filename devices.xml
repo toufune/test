@@ -2,7 +2,7 @@
   "devices": [
     {
       "name": "Pixel 6a",
-      "codename": "bluejay",
+      "codename": "dipper",
       "brand": "Google",
       "maintainer": {
         "name": "Toufu",
@@ -21,7 +21,7 @@
     },
     {
       "name": "Xiaomi Mi 8",
-      "codename": "dipper",
+      "codename": "bluejay",
       "brand": "Xiaomi",
       "maintainer": {
         "name": "neroices",
