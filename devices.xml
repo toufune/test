@@ -1,0 +1,42 @@
+{
+  "devices": [
+    {
+      "name": "Pixel 6a",
+      "codename": "bluejay",
+      "brand": "Google",
+      "maintainer": {
+        "name": "Toufu",
+        "github": "toufune"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15.1/bluejay/WitAqua-15.1-20250212-bluejay-v2.1-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15.1/bluejay/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15.1/bluejay",
+      "installUrl": "https://wiki.witaqua.org/devices/bluejay",
+      "latestAndroidVersion": "15.1",
+      "latestBuildDate": "2025-02-12",
+      "datetime": 1739616725,
+      "filename": "WitAqua-15.1-20250212-bluejay-v2.1-OFFICIAL.zip",
+      "md5": "49ef72b19c9b2addea8db508ca9b00b7",
+      "size": 1418544496
+    },
+    {
+      "name": "Xiaomi Mi 8",
+      "codename": "dipper",
+      "brand": "Xiaomi",
+      "maintainer": {
+        "name": "neroices",
+        "github": "neroices"
+      },
+      "downloadUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/WitAqua-15.0-20241222-dipper-v2.0-OFFICIAL.zip/download",
+      "imgsUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/images/",
+      "archiveUrl": "https://sourceforge.net/projects/witaqua/files/15/dipper/",
+      "installUrl": "https://wiki.witaqua.org/devices/dipper",
+      "latestAndroidVersion": "15",
+      "latestBuildDate": "2024-12-22",
+      "datetime": 1739616725,
+      "filename": "WitAqua-15.1-20250212-bluejay-v2.1-OFFICIAL.zip",
+      "md5": "49ef72b19c9b2addea8db508ca9b00b7",
+      "size": 1418544496
+    }
+  ]
+}
